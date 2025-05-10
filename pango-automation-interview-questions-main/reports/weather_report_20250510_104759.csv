@@ -1,0 +1,11 @@
+City,Web Temperature (°C),API Temperature (°C),Temperature Difference (°C),Exceeds Threshold
+London,20.5,21.0,0.5,No
+Paris,22.0,18.0,4.0,Yes
+Berlin,19.0,19.5,0.5,No
+
+Statistics
+Mean Temperature Difference (°C),1.7
+Maximum Temperature Difference (°C),4.0
+Minimum Temperature Difference (°C),0.5
+Cities Exceeding Threshold,1
+Temperature Threshold (°C),2.0

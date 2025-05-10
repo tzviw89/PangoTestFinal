@@ -1,0 +1,45 @@
+City,Web Temperature (°C),API Temperature (°C),Average Temperature (°C),Temperature Difference (°C),Web Feels Like (°C),API Feels Like (°C),Feels Like Difference (°C)
+Rome,23.0,15.2,19.1,7.8,N/A,N/A,N/A
+Bangkok,28.0,32.2,30.1,4.2,N/A,N/A,N/A
+Bangkok,28.0,30.5,29.3,2.5,N/A,N/A,N/A
+Sydney,19.0,16.5,17.8,2.5,N/A,N/A,N/A
+Moscow,8.0,10.4,9.2,2.4,N/A,N/A,N/A
+Vienna,14.0,16.4,15.2,2.4,N/A,N/A,N/A
+Sydney,19.0,16.8,17.9,2.2,N/A,N/A,N/A
+Paris,18.0,20.2,19.1,2.2,N/A,N/A,N/A
+Vienna,15.0,16.9,15.9,1.9,N/A,N/A,N/A
+Paris,18.0,19.8,18.9,1.8,N/A,N/A,N/A
+Toronto,5.0,6.5,5.8,1.5,N/A,N/A,N/A
+Cairo,34.0,35.4,34.7,1.4,N/A,N/A,N/A
+Madrid,16.0,14.6,15.3,1.4,N/A,N/A,N/A
+Tokyo,21.0,22.1,21.5,1.1,N/A,N/A,N/A
+Toronto,5.0,6.0,5.5,1.0,N/A,N/A,N/A
+Paris,20.0,21.0,20.5,1.0,N/A,N/A,N/A
+Tokyo,21.0,21.9,21.5,0.9,N/A,N/A,N/A
+Hong Kong,27.0,27.9,27.4,0.9,N/A,N/A,N/A
+New York,11.0,11.8,11.4,0.8,N/A,N/A,N/A
+Amsterdam,19.0,19.6,19.3,0.6,N/A,N/A,N/A
+Amsterdam,19.0,19.6,19.3,0.6,N/A,N/A,N/A
+Hong Kong,27.0,27.5,27.3,0.5,N/A,N/A,N/A
+Berlin,16.0,16.5,16.3,0.5,N/A,N/A,N/A
+London,20.5,21.0,20.8,0.5,N/A,N/A,N/A
+London,20.5,21.0,20.8,0.5,N/A,N/A,N/A
+London,20.5,21.0,20.8,0.5,N/A,N/A,N/A
+London,20.0,20.5,20.2,0.5,N/A,N/A,N/A
+Cairo,34.0,34.4,34.2,0.4,N/A,N/A,N/A
+New York,11.0,11.4,11.2,0.4,N/A,N/A,N/A
+Istanbul,14.0,13.7,13.8,0.3,N/A,N/A,N/A
+Singapore,30.0,29.7,29.8,0.3,N/A,N/A,N/A
+Singapore,30.0,29.7,29.8,0.3,N/A,N/A,N/A
+New York,11.0,11.3,11.1,0.3,N/A,N/A,N/A
+Seoul,13.0,12.8,12.9,0.2,N/A,N/A,N/A
+London,21.0,20.8,20.9,0.2,N/A,N/A,N/A
+Stockholm,9.0,8.9,8.9,0.1,N/A,N/A,N/A
+
+Summary Statistics
+Metric,Value
+Mean Temperature Difference,1.1°C
+Maximum Temperature Difference,7.8°C
+Minimum Temperature Difference,0.0°C
+
+Report Generated,2025-05-10 14:32:47

@@ -1,0 +1,9 @@
+City,Web Temperature,API Temperature,Average Temperature,Discrepancy
+Bangkok,28.0,32.19,30.095,4.189999999999998
+Vienna,14.0,16.38,15.19,2.379999999999999
+Sydney,19.0,16.82,17.91,2.1799999999999997
+
+Summary Statistics
+Mean Discrepancy,0.8763157894736839
+Max Discrepancy,4.189999999999998
+Min Discrepancy,0.0

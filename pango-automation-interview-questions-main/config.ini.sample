@@ -1,0 +1,13 @@
+[API]
+API_KEY = your_api_key_here
+BASE_URL = https://api.openweathermap.org/data/2.5/weather
+
+[Database]
+DB_PATH = data.db
+
+[Reports]
+OUTPUT_DIR = reports
+TEMPERATURE_THRESHOLD = 2.0
+
+[Dashboard]
+REFRESH_INTERVAL = 300  # 5 minutes in seconds 
